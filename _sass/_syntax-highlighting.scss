@@ -2,6 +2,7 @@
  * Syntax highlighting styles
  */
 .highlight {
+    max-width: -webkit-calc(#{$content-width} - (#{$spacing-unit} * 4));
     background: #fff;
     @extend %vertical-rhythm;
 
