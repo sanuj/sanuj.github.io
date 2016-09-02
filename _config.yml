@@ -18,7 +18,3 @@ permalink: none
 
 # Build settings
 markdown: kramdown
-
-# Disqus Comments
-disqus_short_name: sanuj
-# disqus_show_comment_count: false
