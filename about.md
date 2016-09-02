@@ -4,12 +4,14 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+Hi, I'm Sanuj Sharma. I recently graduated from [IIT - Guwahati](http://www.iitg.ernet.in/) with a major in Electronics and Communication Engineering. As an undergraduate, I worked on computer vision, robotics and machine learning projects through opensource contributions and bachelor thesis project. During summers, I interned in Indian startups -- did some Android and web development.
 
-You can find the source code for the Jekyll new theme at:
-{% include icon-github.html username="jglovier" %} /
-[jekyll-new](https://github.com/jglovier/jekyll-new)
+I like to read -- sci-fi, non-fiction (biographies of scientists and entrepreneurs), research blogs and take online courses.
 
-You can find the source code for Jekyll at
-{% include icon-github.html username="jekyll" %} /
-[jekyll](https://github.com/jekyll/jekyll)
+Link to my [curriculum vitae](https://drive.google.com/open?id=0B7xfqVQgZv4td3BoVmIyM0h6ZkU).
+
+### Online profiles
+
+- [Github](https://github.com/sanuj)
+- [Twitter](https://twitter.com/sanuj_sharma)
+- [Goodreads](https://www.goodreads.com/user/show/58040233-sanuj)
