@@ -2,7 +2,6 @@
 layout: post
 title:  "GSoC with Shogun"
 date:   2016-09-01 00:00:00 +0530
-categories: work
 ---
 ![GSoC Logo](/assets/gsoc-logo.svg)
 
